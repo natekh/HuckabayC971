@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HuckabayC971.CourseDetailPage"
+             Padding="50">
+    <StackLayout>
+        <Label Text="{Binding Title}" FontSize="Large" FontAttributes="Bold" TextColor="Black" />
+        <Label Text="{Binding FullDates}" FontSize="Medium" />
+        <Label Text="{Binding Status}" FontSize="Medium" />
+        <StackLayout>
+            <Label Text="Instructor Information" FontSize="Large" TextColor="Black"/>
+            <Label Text="{Binding Instructor}" FontSize="Medium"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Assessments" FontSize="Large" TextColor="Black" />
+            <Label x:Name="assessmentsLabel" FontSize="Medium" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

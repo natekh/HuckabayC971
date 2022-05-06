@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:HuckabayC971"
+             mc:Ignorable="d"
+             x:Class="HuckabayC971.TermsDetailPage"
+             Title="{Binding Title}">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="ADD COURSE" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ListView x:Name="listView" ItemTapped="listView_ItemTapped">
+        <ListView.Header>
+            <StackLayout Orientation="Horizontal" BackgroundColor="Accent">
+                <Label Text="Term Dates: " TextColor="White" FontSize="Medium" VerticalOptions="Center"/>
+                <Label Text="{Binding FullDates}" TextColor="White" FontSize="Medium" VerticalOptions="Center"/>
+            </StackLayout>
+        </ListView.Header>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell Text="{Binding Title}" Detail="{Binding FullDates}"/>
+            </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+</ContentPage>

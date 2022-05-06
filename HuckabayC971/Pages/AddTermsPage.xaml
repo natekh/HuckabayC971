@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d"
+             x:Class="HuckabayC971.AddTermsPage"
+             Title="Add Terms">
+    <StackLayout Padding="50">
+        <Entry x:Name="titleEntry" Placeholder="Term Title"/>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Start Date:" VerticalOptions="Center"/>
+            <DatePicker x:Name="startDatePicker" VerticalOptions="Center" HorizontalOptions="Center" Date="{x:Static sys:DateTime.Today}" MinimumDate="{x:Static sys:DateTime.Today}"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="End Date:  " VerticalOptions="Center"/>
+            <DatePicker x:Name="endDatePicker" VerticalOptions="Center" HorizontalOptions="Center" Date="{x:Static sys:DateTime.Today}" MinimumDate="{x:Static sys:DateTime.Today}"/>
+        </StackLayout>
+        <Button Text="Save" Clicked="Button_Clicked" />
+    </StackLayout>
+    
+</ContentPage>

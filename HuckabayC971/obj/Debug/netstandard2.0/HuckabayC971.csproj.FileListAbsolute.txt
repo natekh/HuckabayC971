@@ -1,0 +1,49 @@
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.deps.json
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.csprojAssemblyReference.cache
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfoInputs.cache
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfo.cs
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.deps.json
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\AddCoursesPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\AddTermsPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\CourseDetailPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\TermsDetailPage.xaml.g.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfoInputs.cache
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfo.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.csproj.CoreCompileInputs.cache
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.deps.json
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\bin\Debug\netstandard2.0\HuckabayC971.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.csprojAssemblyReference.cache
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\AddCoursesPage.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\AddTermsPage.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\CourseDetailPage.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\Pages\TermsDetailPage.xaml.g.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfoInputs.cache
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.AssemblyInfo.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\ref\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971\obj\Debug\netstandard2.0\HuckabayC971.pdb

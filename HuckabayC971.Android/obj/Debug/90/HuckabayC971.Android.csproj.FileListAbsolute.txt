@@ -1,0 +1,1428 @@
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.apk
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.aab
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.aab
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.apk
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\build.props
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\adb.props
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csprojAssemblyReference.cache
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res.flag
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\2266997249FBEF31.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\6622F6BB5CFBF209.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\76334B9E0BFB86E9.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\A51BC53A8ADD7992.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\DE6A0F4F4D9C15F0.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\E2078A0FFFBE217F.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\6A8F549DD4BE1B0F.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\2ECB3B54C1BE0637.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\F216372AA8BE559F.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\A9B6671C02989094.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\EDF208D517988DAC.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\2266997249FBEF31.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\6622F6BB5CFBF209.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\76334B9E0BFB86E9.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\A51BC53A8ADD7992.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\DE6A0F4F4D9C15F0.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\E2078A0FFFBE217F.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\6A8F549DD4BE1B0F.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\2ECB3B54C1BE0637.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\F216372AA8BE559F.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\A9B6671C02989094.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\EDF208D517988DAC.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.txt
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.cs.flag
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CopyComplete
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apk
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.aab
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apks
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\__environment__.txt
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\static.flag
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\buildid.txt
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6481fdc04c46743f1c\MainActivity.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\com\companyname\huckabayc971\R.java
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Natha\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.apk
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.aab
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.aab
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.apk
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\build.props
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\adb.props
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csprojAssemblyReference.cache
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res.flag
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\9916912978D1B169.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\DD52FEE06DD1AC51.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\CD4343C53AD1D8B1.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\1E6BCD61BBF727CA.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\651A07147CB64BA8.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\59778254CE947F27.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\D1FF5CC6E5944557.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\95BB330FF094586F.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\49663F7199940BC7.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\12C66F4733B2CECC.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\5682008E26B2D3F4.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\9916912978D1B169.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\DD52FEE06DD1AC51.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\CD4343C53AD1D8B1.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\1E6BCD61BBF727CA.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\651A07147CB64BA8.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\59778254CE947F27.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\D1FF5CC6E5944557.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\95BB330FF094586F.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\49663F7199940BC7.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\12C66F4733B2CECC.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\5682008E26B2D3F4.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.txt
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.cs.flag
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CoreCompileInputs.cache
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\XamlC.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CopyComplete
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apk
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.aab
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apks
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\uploadflags.txt
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\__environment__.txt
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\static.flag
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\buildid.txt
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6481fdc04c46743f1c\MainActivity.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\com\companyname\huckabayc971\R.java
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\nhuckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.Android.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.apk
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971.aab
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.aab
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\com.companyname.huckabayc971-Signed.apk
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\bin\Debug\HuckabayC971.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\build.props
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\adb.props
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csprojAssemblyReference.cache
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res.flag
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\3004DEB54F0ECF39.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\7440B17C5A0ED201.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\64510C590D0EA6E1.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\B77982FD8C28599A.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\CC0848884B6935F8.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\F065CDC8F94B0177.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\78ED135AD24B3B07.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\3CA97C93C74B263F.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\E07470EDAE4B7597.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\BBD420DB046DB09C.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\FF904F12116DADA4.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\3004DEB54F0ECF39.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\7440B17C5A0ED201.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\64510C590D0EA6E1.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\B77982FD8C28599A.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\CC0848884B6935F8.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\F065CDC8F94B0177.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\78ED135AD24B3B07.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\3CA97C93C74B263F.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\E07470EDAE4B7597.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\BBD420DB046DB09C.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\FF904F12116DADA4.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.txt
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\R.cs.flag
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.csproj.CopyComplete
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\HuckabayC971.Android.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apk
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.aab
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\com.companyname.huckabayc971.apks
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.Android.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\HuckabayC971.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\__environment__.txt
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\static.flag
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\buildid.txt
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc6481fdc04c46743f1c\MainActivity.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\src\com\companyname\huckabayc971\R.java
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Nathan Huckabay\Desktop\HuckabayC971\HuckabayC971.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
